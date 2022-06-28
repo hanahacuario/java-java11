@@ -18,7 +18,7 @@ public class DateAndTime_07_Test {
 	public void test_date_to_localdate() throws Exception {
 
 		// TODO Créer une date Java 1 (12/02/2017)
-		Date date = null;
+		//Date date = Date.from("12/02/2017");
 
 		// TODO transformer la date en Instant
 
